@@ -1,7 +1,5 @@
 Hi, I’m Minh
 
-- I’m interested in learning reactjs and redux
-- I’m currently learning reactjs & redux
 - I’m looking to collaborate on making stuff
 - Reach me: nghuyminh.91@gmail.com
 
